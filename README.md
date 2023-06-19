@@ -1,5 +1,5 @@
-### Hi there 👋
-
+ - 👋 Hi, I'm Wesley Akinsehinde! I have recently finished university studying a degree in Business Information Technology.
+ - 🌱 I am interested in collaborating on any projects in order to improve my skills.
 <!--
 **wesleyakins/wesleyakins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
